@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saaswath-Upendran
-- 👀 I’m interested in Computers and Games
-- 🌱 I’m currently learning Rust Programing
+- 👀 I’m interested in Software Development and Games
+- 🌱 I’m currently learning Rust Programming
 - 💞️ I’m looking to collaborate on Machine Learning and Web Frameworks
 - 📫 How to reach me saaswathupendran@gmail.com
 
